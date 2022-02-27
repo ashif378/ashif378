@@ -1,4 +1,4 @@
-![](bot-desk.svg)
+![](bot-desk.png)
 
 <!--
 
